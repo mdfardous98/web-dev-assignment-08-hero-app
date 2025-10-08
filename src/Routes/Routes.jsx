@@ -27,10 +27,7 @@ const router = createBrowserRouter([
         path: "/installation",
         element: <Installation />,
       },
-      {
-        path: "/app/:id",
-        element: <AppsDetails />,
-      },
+      
     ],
   },
 ]);
