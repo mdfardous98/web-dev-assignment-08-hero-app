@@ -1,0 +1,542 @@
+[
+  {
+    "image": "https://img.utdstc.com/icon/787/b47/787b47309809c8663ca58f6de1326c6db7ca0748f1aadac20410fc9aa5f8f301:200",
+    "title": "PhotoEditor Pro",
+    "companyName": "PixelCraft Inc.",
+    "id": 1,
+    "description": "PhotoEditor Pro offers a comprehensive suite of tools to enhance your photos with ease. From basic adjustments like cropping and resizing to advanced features like layer-based editing, this app caters to both beginners and professionals. Apply filters, adjust lighting, and remove blemishes with intuitive controls. The app supports high-resolution exports and seamless integration with cloud storage services. Whether you're editing selfies or creating professional-grade artwork, PhotoEditor Pro provides a smooth, user-friendly experience. Regular updates ensure new filters and tools are added, keeping your creativity flowing. Share your creations directly to social media platforms or save them for later. With robust performance and minimal lag, it’s a must-have for photography enthusiasts. The app also includes tutorials to help users master its features quickly. Available in multiple languages, it’s accessible to a global audience. Perfect for casual edits or intricate designs, PhotoEditor Pro is your go-to photo editing solution.",
+    "size": 85,
+    "reviews": 12000,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 6300 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/taskmaster-icon.jpg",
+    "title": "TaskMaster",
+    "companyName": "OrganizeNow Ltd.",
+    "id": 2,
+    "description": "TaskMaster is the ultimate productivity app designed to streamline your daily tasks and boost efficiency. Create, manage, and track tasks with a clean, intuitive interface. Set reminders, prioritize tasks, and categorize them for personal or work-related projects. The app syncs across devices, ensuring you stay organized wherever you go. With features like recurring tasks, progress tracking, and calendar integration, TaskMaster helps you stay on top of deadlines. Customize notifications to suit your schedule and collaborate with teams by sharing task lists. The app’s minimalist design reduces distractions, while its powerful analytics provide insights into your productivity patterns. TaskMaster supports offline mode, so you can work without an internet connection. Whether you're a student, professional, or freelancer, this app adapts to your needs. Regular updates add new features based on user feedback, ensuring a constantly improving experience. TaskMaster is available in multiple languages for global accessibility.",
+    "size": 45,
+    "reviews": 8500,
+    "ratingAvg": 4.3,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/fittrack-icon.jpg",
+    "title": "FitTrack",
+    "companyName": "HealthSync Solutions",
+    "id": 3,
+    "description": "FitTrack is your personal fitness companion, designed to help you achieve your health goals. Track workouts, monitor calorie intake, and log daily steps with ease. The app offers personalized workout plans tailored to your fitness level, from beginner to advanced. Sync with wearables to monitor heart rate and sleep patterns. FitTrack’s intuitive dashboard displays your progress in real-time, motivating you to stay consistent. Explore a library of guided exercises, including yoga, strength training, and cardio. The app also provides nutrition tips and meal planning tools to complement your fitness journey. Share your achievements with friends or join community challenges for extra motivation. FitTrack supports offline tracking and integrates with popular fitness platforms. With a clean interface and regular updates, it ensures a seamless experience. Available in multiple languages, FitTrack is perfect for anyone looking to improve their health and wellness.",
+    "size": 60,
+    "reviews": 9500,
+    "ratingAvg": 4.6,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 5050 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/notesync-icon.jpg",
+    "title": "NoteSync",
+    "companyName": "WriteEasy Tech",
+    "id": 4,
+    "description": "NoteSync is a powerful note-taking app designed for students, professionals, and creatives. Organize your thoughts with customizable notebooks, tags, and folders. Add images, audio recordings, and sketches to your notes for a richer experience. The app supports handwriting recognition and text search within notes, making it easy to find what you need. Sync your notes across devices via cloud storage, ensuring access anytime, anywhere. Collaborate with others by sharing notes or working on group projects. NoteSync’s offline mode lets you work without an internet connection, and its minimalist design enhances focus. With regular updates, new features like templates and widgets are added frequently. The app is available in multiple languages, catering to a global audience. Whether you're jotting down ideas, planning projects, or studying, NoteSync is your reliable companion for staying organized and productive.",
+    "size": 50,
+    "reviews": 7000,
+    "ratingAvg": 4.4,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3750 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/budgetwise-icon.jpg",
+    "title": "BudgetWise",
+    "companyName": "MoneySmart Inc.",
+    "id": 5,
+    "description": "BudgetWise helps you take control of your finances with ease and precision. Track expenses, set budgets, and monitor savings goals in one intuitive app. Categorize transactions, generate spending reports, and receive insights to improve your financial habits. The app supports multiple currencies, making it ideal for travelers or international users. Sync with bank accounts for real-time updates or manually input transactions for full control. BudgetWise’s clean interface and customizable dashboards make financial management stress-free. Set reminders for bill payments and avoid late fees. The app’s offline mode ensures you can track expenses anywhere. With robust security features, your data stays safe. Regular updates introduce new tools like investment tracking and debt management. Available in multiple languages, BudgetWise is perfect for anyone looking to manage their money smarter.",
+    "size": 40,
+    "reviews": 6000,
+    "ratingAvg": 4.2,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 2700 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/learneasy-icon.jpg",
+    "title": "LearnEasy",
+    "companyName": "EduTech Innovations",
+    "id": 6,
+    "description": "LearnEasy is an educational app designed to make learning engaging and accessible. Explore courses on various subjects, from math to languages, with interactive lessons and quizzes. The app offers bite-sized content for quick learning sessions, perfect for busy schedules. Track your progress with detailed analytics and earn badges for completing milestones. LearnEasy supports offline access, so you can study anywhere. Collaborate with peers through discussion forums or share notes with classmates. The app’s adaptive learning technology tailors content to your skill level, ensuring a personalized experience. With a vast library of resources and regular content updates, LearnEasy keeps you motivated. Available in multiple languages, it’s ideal for students, professionals, or lifelong learners seeking to expand their knowledge.",
+    "size": 70,
+    "reviews": 11000,
+    "ratingAvg": 4.7,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 6400 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/travelbuddy-icon.jpg",
+    "title": "TravelBuddy",
+    "companyName": "Wanderlust Co.",
+    "id": 7,
+    "description": "TravelBuddy is your ultimate companion for planning and enjoying trips. Discover destinations, book flights, and create itineraries with ease. The app provides real-time travel updates, including flight statuses and weather forecasts. Save your favorite places, access offline maps, and get personalized recommendations based on your interests. Share your travel plans with friends or collaborate on group trips. TravelBuddy’s currency converter and language guides make international travel stress-free. The app’s intuitive design ensures easy navigation, while its offline mode keeps you informed without internet access. Regular updates add new features like local event guides and travel tips. Available in multiple languages, TravelBuddy is perfect for explorers seeking seamless travel experiences.",
+    "size": 55,
+    "reviews": 8000,
+    "ratingAvg": 4.5,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/meditatenow-icon.jpg",
+    "title": "MeditateNow",
+    "companyName": "ZenSpace Ltd.",
+    "id": 8,
+    "description": "MeditateNow brings mindfulness and relaxation to your daily routine. Explore guided meditations, breathing exercises, and sleep stories designed to reduce stress and improve focus. The app offers sessions for beginners and advanced users, with customizable durations to fit your schedule. Track your meditation streaks and monitor your progress with insightful analytics. MeditateNow’s soothing interface and calming audio create a serene experience. Offline mode ensures you can meditate anywhere, anytime. The app also includes mindfulness challenges and community features to keep you motivated. Regular updates add new sessions and features based on user feedback. Available in multiple languages, MeditateNow is perfect for anyone seeking mental clarity and emotional balance.",
+    "size": 65,
+    "reviews": 9000,
+    "ratingAvg": 4.6,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/shopsmart-icon.jpg",
+    "title": "ShopSmart",
+    "companyName": "RetailTech Solutions",
+    "id": 9,
+    "description": "ShopSmart simplifies your shopping experience with powerful tools to compare prices, track deals, and manage wishlists. Scan barcodes in-store or search online to find the best prices across retailers. The app provides personalized recommendations based on your shopping habits and notifies you of discounts on your favorite products. Create and share shopping lists with family or friends for easy collaboration. ShopSmart’s clean interface and fast performance make shopping effortless. The app supports offline price tracking and integrates with loyalty programs. Regular updates introduce new features like coupon aggregation and budget tracking. Available in multiple languages, ShopSmart is ideal for savvy shoppers looking to save time and money.",
+    "size": 50,
+    "reviews": 7500,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 4050 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/codecraft-icon.jpg",
+    "title": "CodeCraft",
+    "companyName": "TechBit",
+    "id": 10,
+    "description": "CodeCraft is a mobile coding platform for beginners and experts alike. Learn to code in languages like Python, JavaScript, and HTML through interactive tutorials and challenges. The app features a built-in code editor with syntax highlighting and real-time feedback. Test your skills with coding puzzles or build your own projects. CodeCraft supports offline coding, so you can practice anywhere. Share your projects with the community or collaborate on open-source ideas. The app’s intuitive interface makes learning fun and engaging. Regular updates add new lessons and coding challenges to keep you sharp. Available in multiple languages, CodeCraft is perfect for anyone looking to master programming skills on the go.",
+    "size": 80,
+    "reviews": 10000,
+    "ratingAvg": 4.7,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 5600 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/sleepwell-icon.jpg",
+    "title": "SleepWell",
+    "companyName": "RestEasy Tech",
+    "id": 11,
+    "description": "SleepWell helps you achieve better sleep through science-backed techniques. Track your sleep patterns, analyze sleep quality, and receive personalized tips to improve rest. The app offers calming sleep sounds, bedtime stories, and guided relaxation exercises to help you fall asleep faster. Set sleep goals and monitor progress with detailed analytics. SleepWell integrates with wearables to provide comprehensive sleep data. Its soothing interface and offline mode ensure a relaxing experience anytime. Regular updates add new sleep content and features based on user feedback. Available in multiple languages, SleepWell is perfect for anyone looking to enhance their sleep quality and wake up refreshed.",
+    "size": 60,
+    "reviews": 8500,
+    "ratingAvg": 4.5,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/eventplanner-icon.jpg",
+    "title": "EventPlanner",
+    "companyName": "CelebrateEasy Co.",
+    "id": 12,
+    "description": "EventPlanner simplifies the process of organizing events, from small gatherings to large celebrations. Create detailed event plans, manage guest lists, and track budgets with ease. The app offers templates for weddings, birthdays, and corporate events, making planning stress-free. Share invites, collaborate with co-organizers, and send reminders to guests. EventPlanner’s timeline feature keeps you on track with tasks and deadlines. The app supports offline planning and syncs across devices for seamless access. With a clean interface and regular updates, it ensures a smooth experience. Available in multiple languages, EventPlanner is ideal for anyone looking to host memorable events with minimal hassle.",
+    "size": 45,
+    "reviews": 6500,
+    "ratingAvg": 4.3,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3350 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/languageleap-icon.jpg",
+    "title": "LanguageLeap",
+    "companyName": "LinguaNet",
+    "id": 13,
+    "description": "LanguageLeap makes learning new languages fun and effective. Choose from over 20 languages and engage in interactive lessons, quizzes, and speaking exercises. The app uses speech recognition to improve your pronunciation and offers cultural insights to enhance learning. Track your progress with detailed analytics and earn rewards for consistency. LanguageLeap supports offline lessons, so you can learn anywhere. Connect with native speakers through the app’s community feature for real-world practice. Its intuitive design ensures a seamless experience, while regular updates add new content. Available in multiple languages, LanguageLeap is perfect for travelers, students, or anyone eager to master a new language.",
+    "size": 70,
+    "reviews": 9500,
+    "ratingAvg": 4.6,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5400 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/recipriser-icon.jpg",
+    "title": "RecipeRiser",
+    "companyName": "CookEasy Tech",
+    "id": 14,
+    "description": "RecipeRiser is your go-to app for discovering and creating delicious meals. Browse thousands of recipes, from quick dinners to gourmet dishes, with step-by-step instructions. Filter recipes by dietary needs, ingredients, or cooking time. The app’s meal planner helps you organize weekly menus, while the shopping list feature simplifies grocery trips. Save favorite recipes and share them with friends. RecipeRiser supports offline access, so you can cook anywhere. Its clean interface and high-quality images make meal prep enjoyable. Regular updates add new recipes and features based on user feedback. Available in multiple languages, RecipeRiser is perfect for home cooks and food enthusiasts looking to explore new flavors.",
+    "size": 55,
+    "reviews": 8000,
+    "ratingAvg": 4.5,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/mindgames-icon.jpg",
+    "title": "MindGames",
+    "companyName": "BrainBoost Inc.",
+    "id": 15,
+    "description": "MindGames offers a collection of brain teasers, puzzles, and memory challenges to keep your mind sharp. Designed for all ages, the app includes games like sudoku, crosswords, and logic puzzles. Track your progress with performance analytics and compete with friends on leaderboards. MindGames’ adaptive difficulty ensures a fun yet challenging experience. The app supports offline play, making it perfect for commutes or downtime. Its clean design and intuitive controls enhance usability. Regular updates introduce new games and features to keep you engaged. Available in multiple languages, MindGames is ideal for anyone looking to boost cognitive skills while having fun.",
+    "size": 50,
+    "reviews": 7000,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3750 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/petcare-icon.jpg",
+    "title": "PetCare",
+    "companyName": "FurFriends Tech",
+    "id": 16,
+    "description": "PetCare is the ultimate app for pet owners, offering tools to manage your pet’s health and happiness. Track vet appointments, set medication reminders, and log daily activities like walks and feeding. The app provides care tips for various pets, from dogs to reptiles. Connect with local pet services, such as groomers or trainers, and share pet photos with the community. PetCare’s offline mode ensures you can access records anywhere. Its intuitive interface simplifies pet management, while regular updates add new features like diet plans. Available in multiple languages, PetCare is perfect for pet parents seeking to provide the best care for their furry friends.",
+    "size": 45,
+    "reviews": 6000,
+    "ratingAvg": 4.3,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3050 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/homedesign-icon.jpg",
+    "title": "HomeDesign",
+    "companyName": "DecorTech Solutions",
+    "id": 17,
+    "description": "HomeDesign empowers you to create stunning interior designs with ease. Visualize rooms in 3D, experiment with furniture layouts, and choose color schemes. The app offers a vast library of furniture and decor items from real brands. Save and share your designs with friends or professionals for feedback. HomeDesign’s augmented reality feature lets you see designs in your actual space. The app supports offline designing, ensuring creativity on the go. Its user-friendly interface makes it accessible to beginners and pros alike. Regular updates add new items and features. Available in multiple languages, HomeDesign is ideal for anyone looking to transform their living space.",
+    "size": 90,
+    "reviews": 10000,
+    "ratingAvg": 4.6,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 5600 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/newsflash-icon.jpg",
+    "title": "NewsFlash",
+    "companyName": "InfoStream Media",
+    "id": 18,
+    "description": "NewsFlash keeps you informed with real-time news updates from trusted sources. Customize your feed to focus on topics like politics, tech, or entertainment. The app’s clean interface makes browsing headlines easy, while its offline mode lets you read saved articles anywhere. Share stories with friends or save them for later. NewsFlash’s smart algorithm curates content based on your interests, ensuring relevant updates. Regular updates improve performance and add features like podcast integration. Available in multiple languages, NewsFlash is perfect for staying updated on global events without information overload.",
+    "size": 40,
+    "reviews": 7500,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 4050 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/weatherwise-icon.jpg",
+    "title": "WeatherWise",
+    "companyName": "ClimateTech Inc.",
+    "id": 19,
+    "description": "WeatherWise delivers accurate, real-time weather forecasts to keep you prepared. View hourly, daily, or weekly forecasts with detailed insights on temperature, humidity, and precipitation. The app’s interactive radar maps help you track storms and plan activities. Customize alerts for severe weather or temperature changes. WeatherWise supports offline access, ensuring you stay informed anywhere. Its sleek design and intuitive controls make checking the weather effortless. Regular updates improve accuracy and add features like pollen alerts. Available in multiple languages, WeatherWise is ideal for travelers, outdoor enthusiasts, or anyone needing reliable weather updates.",
+    "size": 50,
+    "reviews": 8000,
+    "ratingAvg": 4.5,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/musicvibe-icon.jpg",
+    "title": "MusicVibe",
+    "companyName": "TuneFlow Tech",
+    "id": 20,
+    "description": "MusicVibe is your ultimate music streaming app, offering millions of songs and podcasts. Create playlists, discover new artists, and enjoy high-quality audio. The app’s smart recommendations suggest tracks based on your listening habits. Download songs for offline playback or stream seamlessly with minimal data usage. MusicVibe’s clean interface and intuitive controls enhance your listening experience. Share playlists with friends or explore curated charts. Regular updates add new features like lyrics display and equalizer settings. Available in multiple languages, MusicVibe is perfect for music lovers seeking endless entertainment on the go.",
+    "size": 70,
+    "reviews": 12000,
+    "ratingAvg": 4.7,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 6400 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/bookworm-icon.jpg",
+    "title": "BookWorm",
+    "companyName": "ReadEasy Inc.",
+    "id": 21,
+    "description": "BookWorm is a must-have for book lovers, offering a vast library of eBooks and audiobooks. Browse genres, read reviews, and discover new titles with personalized recommendations. The app’s adjustable reading settings, like font size and night mode, ensure a comfortable experience. Track your reading progress and set goals to stay motivated. BookWorm supports offline reading, so you can enjoy books anywhere. Share quotes or join book clubs within the app’s community. Regular updates add new titles and features like annotation tools. Available in multiple languages, BookWorm is perfect for avid readers and casual book enthusiasts alike.",
+    "size": 60,
+    "reviews": 9000,
+    "ratingAvg": 4.6,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5100 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/fitmeal-icon.jpg",
+    "title": "FitMeal",
+    "companyName": "NutriTech Solutions",
+    "id": 22,
+    "description": "FitMeal helps you maintain a healthy diet with personalized meal plans and nutrition tracking. Log meals, track calories, and monitor macronutrients with ease. The app offers recipes tailored to your dietary preferences, such as vegan or gluten-free. Create shopping lists and plan meals for the week to stay organized. FitMeal’s barcode scanner simplifies logging packaged foods. The app supports offline tracking and syncs with fitness apps for a holistic health approach. Its clean interface makes nutrition management simple. Regular updates add new recipes and features. Available in multiple languages, FitMeal is ideal for anyone pursuing a healthier lifestyle.",
+    "size": 50,
+    "reviews": 7500,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 4050 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/artstudio-icon.jpg",
+    "title": "ArtStudio",
+    "companyName": "CreativeFlow Inc.",
+    "id": 23,
+    "description": "ArtStudio unleashes your creativity with powerful digital art tools. Create stunning illustrations, sketches, and paintings with a variety of brushes and effects. The app supports layers, blending modes, and high-resolution exports for professional-grade artwork. Draw with precision using stylus support or intuitive touch controls. ArtStudio’s offline mode ensures you can create anywhere. Share your artwork with the community or export it to social media. Regular updates add new brushes and features based on user feedback. Available in multiple languages, ArtStudio is perfect for artists of all skill levels looking to bring their ideas to life.",
+    "size": 85,
+    "reviews": 10000,
+    "ratingAvg": 4.7,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 5600 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/connectsphere-icon.jpg",
+    "title": "ConnectSphere",
+    "companyName": "SocialSync Tech",
+    "id": 24,
+    "description": "ConnectSphere is a social networking app that brings people together. Create a profile, share updates, and connect with friends or like-minded communities. The app’s clean interface makes it easy to post photos, videos, or status updates. Engage with others through comments, likes, and private messages. ConnectSphere’s privacy controls ensure you share only what you want. The app supports offline drafting, so you can prepare posts anywhere. Regular updates improve performance and add features like event creation. Available in multiple languages, ConnectSphere is ideal for staying connected with friends and discovering new communities.",
+    "size": 60,
+    "reviews": 8500,
+    "ratingAvg": 4.5,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/studybuddy-icon.jpg",
+    "title": "StudyBuddy",
+    "companyName": "EduSync Solutions",
+    "id": 25,
+    "description": "StudyBuddy is designed to make studying more effective and engaging. Create flashcards, take practice quizzes, and track your progress with detailed analytics. The app supports group study sessions, allowing you to collaborate with classmates in real-time. Organize study schedules and set reminders for upcoming exams. StudyBuddy’s offline mode ensures you can review materials anywhere. Its intuitive design simplifies complex topics, while regular updates add new study tools and content. Available in multiple languages, StudyBuddy is perfect for students aiming to excel academically with organized and interactive study methods.",
+    "size": 55,
+    "reviews": 8000,
+    "ratingAvg": 4.6,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/gardenguru-icon.jpg",
+    "title": "GardenGuru",
+    "companyName": "GreenThumb Tech",
+    "id": 26,
+    "description": "GardenGuru is your go-to app for gardening success. Get tips on plant care, track watering schedules, and identify plants with the app’s image recognition feature. Explore a database of plants with detailed care instructions for each. Plan your garden layout and receive seasonal gardening advice. GardenGuru’s offline mode ensures you can access tips anywhere. Share your garden progress with the community or seek advice from experts. The app’s clean interface makes gardening accessible for beginners and experts alike. Regular updates add new plants and features. Available in multiple languages, GardenGuru is perfect for anyone passionate about growing plants.",
+    "size": 50,
+    "reviews": 7000,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3750 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/podcastpro-icon.jpg",
+    "title": "PodcastPro",
+    "companyName": "AudioWave Media",
+    "id": 27,
+    "description": "PodcastPro brings the world of podcasts to your fingertips. Discover, stream, and download podcasts across genres like true crime, tech, and wellness. Create playlists, follow your favorite shows, and get notified of new episodes. The app’s high-quality audio and offline mode ensure uninterrupted listening anywhere. PodcastPro’s smart recommendations suggest shows based on your interests. Share episodes with friends or join discussions in the app’s community. Its sleek design enhances usability, while regular updates add new features like playback speed controls. Available in multiple languages, PodcastPro is ideal for podcast enthusiasts seeking endless audio entertainment.",
+    "size": 45,
+    "reviews": 7500,
+    "ratingAvg": 4.5,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 4050 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/fityoga-icon.jpg",
+    "title": "FitYoga",
+    "companyName": "ZenFit Solutions",
+    "id": 28,
+    "description": "FitYoga brings the benefits of yoga to your daily routine. Access guided yoga sessions for all skill levels, from beginner to advanced. The app offers classes for flexibility, strength, and relaxation, with customizable durations. Track your progress and set yoga goals to stay motivated. FitYoga’s soothing interface and high-quality videos enhance your practice. The app supports offline sessions, so you can practice anywhere. Connect with the yoga community to share tips and inspiration. Regular updates add new classes and features. Available in multiple languages, FitYoga is perfect for anyone seeking physical and mental wellness through yoga.",
+    "size": 65,
+    "reviews": 8500,
+    "ratingAvg": 4.6,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/jobhunt-icon.jpg",
+    "title": "JobHunt",
+    "companyName": "CareerPath Tech",
+    "id": 29,
+    "description": "JobHunt streamlines your job search with powerful tools to find the perfect role. Browse job listings, filter by industry, location, or salary, and apply directly through the app. Build a professional resume with customizable templates and track application statuses. JobHunt’s alerts notify you of new opportunities matching your profile. The app’s clean interface simplifies the job search process. Save jobs for later or share them with friends. Regular updates improve search algorithms and add features like interview tips. Available in multiple languages, JobHunt is ideal for job seekers looking to advance their careers with ease.",
+    "size": 50,
+    "reviews": 7000,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3750 }
+    ]
+  },
+  {
+    "image": "https://cdn.example-app.com/images/petplay-icon.jpg",
+    "title": "PetPlay",
+    "companyName": "FunFur Tech",
+    "id": 30,
+    "description": "PetPlay is a fun app designed to entertain and engage your pets. Access games, training exercises, and interactive activities for dogs, cats, and more. The app offers tips to stimulate your pet’s mind and improve behavior. Track playtime and monitor your pet’s activity levels with detailed analytics. PetPlay’s colorful interface and engaging sounds keep pets entertained. The app supports offline activities, so playtime is always available. Share cute pet moments with the community or learn from other pet owners. Regular updates add new games and features. Available in multiple languages, PetPlay is perfect for pet owners looking to bond with their pets.",
+    "size": 45,
+    "reviews": 6500,
+    "ratingAvg": 4.3,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3050 }
+    ]
+  }
+]

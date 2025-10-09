@@ -1,5 +1,6 @@
 import Banner from "../Components/Banner";
 import { Link, useLoaderData } from "react-router";
+import App from "../Pages/App";
 import { useEffect, useState } from "react";
 import spinLogo from "../assets/logo.png";
 const Home = () => {
