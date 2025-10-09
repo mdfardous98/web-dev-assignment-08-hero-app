@@ -4,7 +4,7 @@
 
 
 
-[Live Demo](web-dev-assignment-08-hero-app.netlify.app)
+[Live Demo](https://web-dev-assignment-08-hero-app.netlify.app/)
 
 ---
 
