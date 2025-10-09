@@ -1,14 +1,13 @@
+import Root from "./Layouts/Root";
 
-
-
-function App() {
-  
-
+const App = () => {
   return (
     <>
-      <h1 class="text-3xl font-bold underline">Hello world!</h1>
+      <div className="">
+        <Root />
+      </div>
     </>
   );
-}
+};
 
-export default App
+export default App;

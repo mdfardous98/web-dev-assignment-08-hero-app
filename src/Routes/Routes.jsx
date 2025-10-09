@@ -1,35 +1,17 @@
 import { createBrowserRouter } from "react-router";
-import Apps from "../Pages/Apps";
-
 import Home from "../Pages/Home";
-import MainLayout from "../Layouts/MainLayout";
-import ErrorPage from "../Pages/ErrorPage";
+import Layout from "../Layouts/Layout";
 
-import Installation from "../Pages/Installation";
-import AppsDetails from "../Pages/AppsDetails";
-
-const router = createBrowserRouter([
+export const router = createBrowserRouter([
   {
     path: "/",
-    element: <MainLayout />,
-    errorElement: <ErrorPage />,
-
+    element: <Layout></Layout>,
     children: [
       {
         index: true,
-        Component: Home,
+        loader: () => fetch("/appData.json"),
+        element: <Home></Home>,
       },
-      {
-        path: "/apps",
-        element: <Apps />,
-      },
-      {
-        path: "/installation",
-        element: <Installation />,
-      },
-      
     ],
   },
 ]);
-
-export default router;
