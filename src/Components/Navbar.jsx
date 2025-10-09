@@ -10,7 +10,7 @@ const Navbar = () => {
           className={({ isActive }) =>
             isActive
               ? "font-semibold text-xl text-[#632EE3] underline"
-              : "font-semibold text-xl text-black "
+              : "font-semibold text-xl text-black hover:text-[#632EE3] transition-colors duration-200"
           }
           to="/"
         >
@@ -20,7 +20,7 @@ const Navbar = () => {
           className={({ isActive }) =>
             isActive
               ? "font-semibold text-xl text-[#632EE3] underline"
-              : "font-semibold text-xl text-black "
+              : "font-semibold text-xl text-black hover:text-[#632EE3] transition-colors duration-200"
           }
           to="/apps"
         >
@@ -30,7 +30,7 @@ const Navbar = () => {
           className={({ isActive }) =>
             isActive
               ? "font-semibold text-xl text-[#632EE3] underline"
-              : "font-semibold text-xl text-black"
+              : "font-semibold text-xl text-black hover:text-[#632EE3] transition-colors duration-200"
           }
           to="/installation"
         >
@@ -41,7 +41,7 @@ const Navbar = () => {
   );
 
   const openGithubProfile = () => {
-    window.open("https://github.com/mdfardous98");
+    window.open("https://github.com/mdfardous98  ");
   };
   return (
     <div className="bg-base-100 shadow-sm">
@@ -88,8 +88,8 @@ const Navbar = () => {
         <div className="navbar-end">
           <a
             onClick={openGithubProfile}
-            to="/https://github.com/mdfardous98"
-            className="btn  bg-gradient-to-r from-[#632EE3]  to-[#9F62F2] text-white font-semibold"
+            to="/https://github.com/mdfardous98  "
+            className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white font-semibold hover:from-[#5a28cc] hover:to-[#8e56d6] transition-all duration-200"
           >
             {" "}
             <FaGithub /> Contribute
