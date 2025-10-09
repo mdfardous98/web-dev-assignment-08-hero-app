@@ -37,7 +37,7 @@ const Footer = () => {
       </div>
 
       <p className="text-sm mt-3 opacity-70">
-        Copyright © 2025 - All rights reserved
+        Copyright © 2025 - All rights reserved by MD Fardous
       </p>
     </footer>
   );

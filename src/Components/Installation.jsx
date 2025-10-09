@@ -12,6 +12,7 @@ const Installation = () => {
     setInstallCard((prev) => prev.filter((app) => app.id !== id));
     notify("App removed from your list ❌");
   };
+
   const [sort, setSort] = useState("");
   const handleSort = (sortType) => {
     setSort(sortType);
@@ -27,37 +28,49 @@ const Installation = () => {
   };
 
   return (
-    <div className="container mx-auto py-10">
-      <div className="text-center mb-2">
-        <h1 className="font-bold sm:text-5xl text-3xl mb-3">
+    <div className="container mx-auto py-10 transition-all duration-300 hover:-translate-y-1">
+      <div className="text-center mb-2 transition-all duration-300 hover:scale-[1.02]">
+        <h1 className="font-bold sm:text-5xl text-3xl mb-3 hover:text-green-600 transition-colors duration-300">
           Your Installed Apps
         </h1>
-        <p className="text-base font-normal text-[#627382]">
+        <p className="text-base font-normal text-[#627382] hover:text-gray-700 transition-colors duration-300">
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
-      <div className="flex sm:flex-row flex-col sm:justify-between items-center">
-        <h1 className="font-semibold text-xl ">
+
+      <div className="flex sm:flex-row flex-col sm:justify-between items-center mb-3 transition-all duration-300 hover:shadow-md hover:rounded-xl p-2">
+        <h1 className="font-semibold text-xl transition-colors duration-300 hover:text-green-600">
           ({installCard.length}) Apps Found
         </h1>
         <div>
-          <details className="dropdown">
-            <summary className="btn m-1 px-10">
+          <details className="dropdown transition-all duration-300 hover:scale-105">
+            <summary className="btn m-1 px-10 transition-all duration-300 hover:bg-green-500 hover:text-white hover:shadow-md">
               Sort By : {sort ? sort : ""}
               <IoMdArrowDropdown />
             </summary>
-            <ul className="menu dropdown-content bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm">
+            <ul className="menu dropdown-content bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm hover:shadow-md transition-all duration-300">
               <li>
-                <a onClick={() => handleSort("Size")}>Size</a>
+                <a
+                  onClick={() => handleSort("Size")}
+                  className="hover:bg-green-100 transition-colors duration-200"
+                >
+                  Size
+                </a>
               </li>
               <li>
-                <a onClick={() => handleSort("ratingAvg")}>Rating</a>
+                <a
+                  onClick={() => handleSort("ratingAvg")}
+                  className="hover:bg-green-100 transition-colors duration-200"
+                >
+                  Rating
+                </a>
               </li>
             </ul>
           </details>
         </div>
       </div>
-      <div>
+
+      <div className="transition-all duration-300 hover:scale-[1.01]">
         {installCard.map((card) => (
           <InstalledCard
             key={card.id}

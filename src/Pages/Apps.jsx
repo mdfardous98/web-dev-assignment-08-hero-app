@@ -3,19 +3,21 @@ import { useLoaderData } from "react-router";
 import App from "../Pages/App";
 import AppNotFound from "../Pages/AppNotFound";
 import spinLogo from "../assets/logo.png";
+
 const Apps = () => {
   const [loader, setLoader] = useState(false);
-  const appData = useLoaderData();
-  console.log(appData);
-  const [searchData, setSearchData] = useState(``);
+  const appData = useLoaderData() || [];
+  const [searchData, setSearchData] = useState("");
+
   const filterData = appData.filter((app) =>
     app.title.toLowerCase().includes(searchData.toLowerCase())
   );
-  return filterData === "" || filterData.length === 0 ? (
-    <AppNotFound></AppNotFound>
+
+  return filterData.length === 0 ? (
+    <AppNotFound />
   ) : (
     <div className="container mx-auto py-10">
-      <div className="  justify-center items-center ">
+      <div className="justify-center items-center">
         <div className="text-center mb-2">
           <h1 className="font-bold sm:text-5xl text-3xl mb-3">
             Our All Applications
@@ -24,8 +26,9 @@ const Apps = () => {
             Explore All Apps on the Market developed by us. We code for Millions
           </p>
         </div>
+
         <div className="flex sm:flex-row flex-col sm:justify-between items-center">
-          <h1 className="font-semibold text-xl ">
+          <h1 className="font-semibold text-xl">
             ({filterData.length}) Apps Found
           </h1>
           <div>
@@ -54,9 +57,7 @@ const Apps = () => {
                 onChange={(e) => {
                   setSearchData(e.target.value);
                   setLoader(true);
-                  setTimeout(() => {
-                    setLoader(false);
-                  }, 300);
+                  setTimeout(() => setLoader(false), 300);
                 }}
               />
             </label>
@@ -65,17 +66,17 @@ const Apps = () => {
       </div>
 
       <div className="grid sm:grid-cols-2 md:grid-cols-4 grid-cols-1 gap-10 my-10">
-        {loader === true ? (
-          <div className="flex justify-center items-center gap-2 text-center">
+        {loader ? (
+          <div className="flex justify-center items-center w-full h-40">
             <img
               src={spinLogo}
               alt="loading"
               className="w-16 h-16 animate-spin"
             />
-            <span className="text-gray-700 font-medium">Loading...</span>
+            <span className="text-gray-700 font-medium ml-2">Loading...</span>
           </div>
         ) : (
-          filterData.map((app) => <App key={app.id} app={app}></App>)
+          filterData.map((app) => <App key={app.id} app={app} />)
         )}
       </div>
     </div>
