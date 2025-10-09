@@ -1,0 +1,722 @@
+[
+  {
+    "image": "https://img.utdstc.com/icon/787/b47/787b47309809c8663ca58f6de1326c6db7ca0748f1aadac20410fc9aa5f8f301:200",
+    "title": "PhotoEditor Pro",
+    "companyName": "PixelCraft Inc.",
+    "id": 1,
+    "description": "PhotoEditor Pro offers a comprehensive suite of tools to enhance your photos with ease. From basic adjustments like cropping and resizing to advanced features like layer-based editing, this app caters to both beginners and professionals. Apply filters, adjust lighting, and remove blemishes with intuitive controls. The app supports high-resolution exports and seamless integration with cloud storage services. Whether you're editing selfies or creating professional-grade artwork, PhotoEditor Pro provides a smooth, user-friendly experience. Regular updates ensure new filters and tools are added, keeping your creativity flowing. Share your creations directly to social media platforms or save them for later. With robust performance and minimal lag, it’s a must-have for photography enthusiasts. The app also includes tutorials to help users master its features quickly. Available in multiple languages, it’s accessible to a global audience. Perfect for casual edits or intricate designs, PhotoEditor Pro is your go-to photo editing solution.",
+    "size": 85,
+    "reviews": 12000,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 6300 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/3CYcaLeYCzQGI5wQ2lXKFF3WoljL2mlTm0wPhJwL-asTsDeaVofiQmBs_WPT_mXEew",
+    "title": "TaskMaster",
+    "companyName": "OrganizeNow Ltd.",
+    "id": 2,
+    "description": "TaskMaster is the ultimate productivity app designed to streamline your daily tasks and boost efficiency. Create, manage, and track tasks with a clean, intuitive interface. Set reminders, prioritize tasks, and categorize them for personal or work-related projects. The app syncs across devices, ensuring you stay organized wherever you go. With features like recurring tasks, progress tracking, and calendar integration, TaskMaster helps you stay on top of deadlines. Customize notifications to suit your schedule and collaborate with teams by sharing task lists. The app’s minimalist design reduces distractions, while its powerful analytics provide insights into your productivity patterns. TaskMaster supports offline mode, so you can work without an internet connection. Whether you're a student, professional, or freelancer, this app adapts to your needs. Regular updates add new features based on user feedback, ensuring a constantly improving experience. TaskMaster is available in multiple languages for global accessibility.",
+    "size": 45,
+    "reviews": 8500,
+    "ratingAvg": 4.3,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+  {
+    "image": "https://healthsync.app/wp-content/uploads/2023/09/Health-Sync-Synchronization.png",
+    "title": "FitTrack",
+    "companyName": "HealthSync Solutions",
+    "id": 3,
+    "description": "FitTrack is your personal fitness companion, designed to help you achieve your health goals. Track workouts, monitor calorie intake, and log daily steps with ease. The app offers personalized workout plans tailored to your fitness level, from beginner to advanced. Sync with wearables to monitor heart rate and sleep patterns. FitTrack’s intuitive dashboard displays your progress in real-time, motivating you to stay consistent. Explore a library of guided exercises, including yoga, strength training, and cardio. The app also provides nutrition tips and meal planning tools to complement your fitness journey. Share your achievements with friends or join community challenges for extra motivation. FitTrack supports offline tracking and integrates with popular fitness platforms. With a clean interface and regular updates, it ensures a seamless experience. Available in multiple languages, FitTrack is perfect for anyone looking to improve their health and wellness.",
+    "size": 60,
+    "reviews": 9500,
+    "ratingAvg": 4.6,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 5050 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "NoteSync",
+    "companyName": "WriteEasy Tech",
+    "id": 4,
+    "description": "NoteSync is a powerful note-taking app designed for students, professionals, and creatives. Organize your thoughts with customizable notebooks, tags, and folders. Add images, audio recordings, and sketches to your notes for a richer experience. The app supports handwriting recognition and text search within notes, making it easy to find what you need. Sync your notes across devices via cloud storage, ensuring access anytime, anywhere. Collaborate with others by sharing notes or working on group projects. NoteSync’s offline mode lets you work without an internet connection, and its minimalist design enhances focus. With regular updates, new features like templates and widgets are added frequently. The app is available in multiple languages, catering to a global audience. Whether you're jotting down ideas, planning projects, or studying, NoteSync is your reliable companion for staying organized and productive.",
+    "size": 50,
+    "reviews": 7000,
+    "ratingAvg": 4.4,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3750 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW2Ox7ngM3Yw7VuyGur2OgfQ3zonjVNKNYDA&s",
+    "title": "BudgetWise",
+    "companyName": "MoneySmart Inc.",
+    "id": 5,
+    "description": "BudgetWise helps you take control of your finances with ease and precision. Track expenses, set budgets, and monitor savings goals in one intuitive app. Categorize transactions, generate spending reports, and receive insights to improve your financial habits. The app supports multiple currencies, making it ideal for travelers or international users. Sync with bank accounts for real-time updates or manually input transactions for full control. BudgetWise’s clean interface and customizable dashboards make financial management stress-free. Set reminders for bill payments and avoid late fees. The app’s offline mode ensures you can track expenses anywhere. With robust security features, your data stays safe. Regular updates introduce new tools like investment tracking and debt management. Available in multiple languages, BudgetWise is perfect for anyone looking to manage their money smarter.",
+    "size": 40,
+    "reviews": 6000,
+    "ratingAvg": 4.2,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 2700 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/F0tu_RJmr2RxmnYqrb66_02UaQJJ1T0q9__iYnPnzYCNeGp_SFVqnXt407XT7s14KYo=w240-h480-rw",
+    "title": "LearnEasy",
+    "companyName": "EduTech Innovations",
+    "id": 6,
+    "description": "LearnEasy is an educational app designed to make learning engaging and accessible. Explore courses on various subjects, from math to languages, with interactive lessons and quizzes. The app offers bite-sized content for quick learning sessions, perfect for busy schedules. Track your progress with detailed analytics and earn badges for completing milestones. LearnEasy supports offline access, so you can study anywhere. Collaborate with peers through discussion forums or share notes with classmates. The app’s adaptive learning technology tailors content to your skill level, ensuring a personalized experience. With a vast library of resources and regular content updates, LearnEasy keeps you motivated. Available in multiple languages, it’s ideal for students, professionals, or lifelong learners seeking to expand their knowledge.",
+    "size": 70,
+    "reviews": 11000,
+    "ratingAvg": 4.7,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 6400 }
+    ]
+  },
+  {
+    "image": "https://www.logoai.com/uploads/output/2022/04/11/d788081a7388e8d0494cca66e42a91b7.jpg",
+    "title": "TravelBuddy",
+    "companyName": "Wanderlust Co.",
+    "id": 7,
+    "description": "TravelBuddy is your ultimate companion for planning and enjoying trips. Discover destinations, book flights, and create itineraries with ease. The app provides real-time travel updates, including flight statuses and weather forecasts. Save your favorite places, access offline maps, and get personalized recommendations based on your interests. Share your travel plans with friends or collaborate on group trips. TravelBuddy’s currency converter and language guides make international travel stress-free. The app’s intuitive design ensures easy navigation, while its offline mode keeps you informed without internet access. Regular updates add new features like local event guides and travel tips. Available in multiple languages, TravelBuddy is perfect for explorers seeking seamless travel experiences.",
+    "size": 55,
+    "reviews": 8000,
+    "ratingAvg": 4.5,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  },
+  {
+    "image": "https://meditatenow.it.com/wp-content/uploads/2025/09/philosophical_purpose.webp",
+    "title": "MeditateNow",
+    "companyName": "ZenSpace Ltd.",
+    "id": 8,
+    "description": "MeditateNow brings mindfulness and relaxation to your daily routine. Explore guided meditations, breathing exercises, and sleep stories designed to reduce stress and improve focus. The app offers sessions for beginners and advanced users, with customizable durations to fit your schedule. Track your meditation streaks and monitor your progress with insightful analytics. MeditateNow’s soothing interface and calming audio create a serene experience. Offline mode ensures you can meditate anywhere, anytime. The app also includes mindfulness challenges and community features to keep you motivated. Regular updates add new sessions and features based on user feedback. Available in multiple languages, MeditateNow is perfect for anyone seeking mental clarity and emotional balance.",
+    "size": 65,
+    "reviews": 9000,
+    "ratingAvg": 4.6,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0mRSShPD2t_5JRHcTUhI62lvVZAIwl-Jrxw&s",
+    "title": "ShopSmart",
+    "companyName": "RetailTech Solutions",
+    "id": 9,
+    "description": "ShopSmart simplifies your shopping experience with powerful tools to compare prices, track deals, and manage wishlists. Scan barcodes in-store or search online to find the best prices across retailers. The app provides personalized recommendations based on your shopping habits and notifies you of discounts on your favorite products. Create and share shopping lists with family or friends for easy collaboration. ShopSmart’s clean interface and fast performance make shopping effortless. The app supports offline price tracking and integrates with loyalty programs. Regular updates introduce new features like coupon aggregation and budget tracking. Available in multiple languages, ShopSmart is ideal for savvy shoppers looking to save time and money.",
+    "size": 50,
+    "reviews": 7500,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 4050 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD9-mSIkiGdEtwuFcHhVIgWNQAMMC3axNBYA&s",
+    "title": "CodeCraft",
+    "companyName": "TechBit",
+    "id": 10,
+    "description": "CodeCraft is a mobile coding platform for beginners and experts alike. Learn to code in languages like Python, JavaScript, and HTML through interactive tutorials and challenges. The app features a built-in code editor with syntax highlighting and real-time feedback. Test your skills with coding puzzles or build your own projects. CodeCraft supports offline coding, so you can practice anywhere. Share your projects with the community or collaborate on open-source ideas. The app’s intuitive interface makes learning fun and engaging. Regular updates add new lessons and coding challenges to keep you sharp. Available in multiple languages, CodeCraft is perfect for anyone looking to master programming skills on the go.",
+    "size": 80,
+    "reviews": 10000,
+    "ratingAvg": 4.7,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 5600 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/WGQPFLqOSIrL9hnrcsllHCn1leP9GVRE23pRuQYtRk-D6u8lsCU4EHfBtHTJRa8fQ5uh",
+    "title": "SleepWell",
+    "companyName": "RestEasy Tech",
+    "id": 11,
+    "description": "SleepWell helps you achieve better sleep through science-backed techniques. Track your sleep patterns, analyze sleep quality, and receive personalized tips to improve rest. The app offers calming sleep sounds, bedtime stories, and guided relaxation exercises to help you fall asleep faster. Set sleep goals and monitor progress with detailed analytics. SleepWell integrates with wearables to provide comprehensive sleep data. Its soothing interface and offline mode ensure a relaxing experience anytime. Regular updates add new sleep content and features based on user feedback. Available in multiple languages, SleepWell is perfect for anyone looking to enhance their sleep quality and wake up refreshed.",
+    "size": 60,
+    "reviews": 8500,
+    "ratingAvg": 4.5,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/nH9TgrivOa7m7YTiP5SE8Wdn0IHI_-s8cj1_pn32HCxGCQTGEPhFdst90qnk3kizBgc",
+    "title": "EventPlanner",
+    "companyName": "CelebrateEasy Co.",
+    "id": 12,
+    "description": "EventPlanner simplifies the process of organizing events, from small gatherings to large celebrations. Create detailed event plans, manage guest lists, and track budgets with ease. The app offers templates for weddings, birthdays, and corporate events, making planning stress-free. Share invites, collaborate with co-organizers, and send reminders to guests. EventPlanner’s timeline feature keeps you on track with tasks and deadlines. The app supports offline planning and syncs across devices for seamless access. With a clean interface and regular updates, it ensures a smooth experience. Available in multiple languages, EventPlanner is ideal for anyone looking to host memorable events with minimal hassle.",
+    "size": 45,
+    "reviews": 6500,
+    "ratingAvg": 4.3,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3350 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/app-learn-languages_23-2148614927.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "LanguageLeap",
+    "companyName": "LinguaNet",
+    "id": 13,
+    "description": "LanguageLeap makes learning new languages fun and effective. Choose from over 20 languages and engage in interactive lessons, quizzes, and speaking exercises. The app uses speech recognition to improve your pronunciation and offers cultural insights to enhance learning. Track your progress with detailed analytics and earn rewards for consistency. LanguageLeap supports offline lessons, so you can learn anywhere. Connect with native speakers through the app’s community feature for real-world practice. Its intuitive design ensures a seamless experience, while regular updates add new content. Available in multiple languages, LanguageLeap is perfect for travelers, students, or anyone eager to master a new language.",
+    "size": 70,
+    "reviews": 9500,
+    "ratingAvg": 4.6,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5400 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZvmfTx76yTXtJkjtNW-wqUHBpa2vXh37ftQ&s",
+    "title": "RecipeRiser",
+    "companyName": "CookEasy Tech",
+    "id": 14,
+    "description": "RecipeRiser is your go-to app for discovering and creating delicious meals. Browse thousands of recipes, from quick dinners to gourmet dishes, with step-by-step instructions. Filter recipes by dietary needs, ingredients, or cooking time. The app’s meal planner helps you organize weekly menus, while the shopping list feature simplifies grocery trips. Save favorite recipes and share them with friends. RecipeRiser supports offline access, so you can cook anywhere. Its clean interface and high-quality images make meal prep enjoyable. Regular updates add new recipes and features based on user feedback. Available in multiple languages, RecipeRiser is perfect for home cooks and food enthusiasts looking to explore new flavors.",
+    "size": 55,
+    "reviews": 8000,
+    "ratingAvg": 4.5,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/iq-nOauO22WQ7uXRlifHFw0MS1xRA_FRiCvr18vlYKIR_fxICjKVCPRk0dVnr7DzSfs",
+    "title": "MindGames",
+    "companyName": "BrainBoost Inc.",
+    "id": 15,
+    "description": "MindGames offers a collection of brain teasers, puzzles, and memory challenges to keep your mind sharp. Designed for all ages, the app includes games like sudoku, crosswords, and logic puzzles. Track your progress with performance analytics and compete with friends on leaderboards. MindGames’ adaptive difficulty ensures a fun yet challenging experience. The app supports offline play, making it perfect for commutes or downtime. Its clean design and intuitive controls enhance usability. Regular updates introduce new games and features to keep you engaged. Available in multiple languages, MindGames is ideal for anyone looking to boost cognitive skills while having fun.",
+    "size": 50,
+    "reviews": 7000,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3750 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/bc/b3/b9/bcb3b9fac784e27728b29c397287030b.jpg",
+    "title": "PetCare",
+    "companyName": "FurFriends Tech",
+    "id": 16,
+    "description": "PetCare is the ultimate app for pet owners, offering tools to manage your pet’s health and happiness. Track vet appointments, set medication reminders, and log daily activities like walks and feeding. The app provides care tips for various pets, from dogs to reptiles. Connect with local pet services, such as groomers or trainers, and share pet photos with the community. PetCare’s offline mode ensures you can access records anywhere. Its intuitive interface simplifies pet management, while regular updates add new features like diet plans. Available in multiple languages, PetCare is perfect for pet parents seeking to provide the best care for their furry friends.",
+    "size": 45,
+    "reviews": 6000,
+    "ratingAvg": 4.3,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3050 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXMnp3DRlGECH8hfnBO-uXSBlRMLZZiv7teA&s",
+    "title": "HomeDesign",
+    "companyName": "DecorTech Solutions",
+    "id": 17,
+    "description": "HomeDesign empowers you to create stunning interior designs with ease. Visualize rooms in 3D, experiment with furniture layouts, and choose color schemes. The app offers a vast library of furniture and decor items from real brands. Save and share your designs with friends or professionals for feedback. HomeDesign’s augmented reality feature lets you see designs in your actual space. The app supports offline designing, ensuring creativity on the go. Its user-friendly interface makes it accessible to beginners and pros alike. Regular updates add new items and features. Available in multiple languages, HomeDesign is ideal for anyone looking to transform their living space.",
+    "size": 90,
+    "reviews": 10000,
+    "ratingAvg": 4.6,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 5600 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlG9AbS__KHCmvUkM1_vItlUqfpZFEAF1cMw&s",
+    "title": "NewsFlash",
+    "companyName": "InfoStream Media",
+    "id": 18,
+    "description": "NewsFlash keeps you informed with real-time news updates from trusted sources. Customize your feed to focus on topics like politics, tech, or entertainment. The app’s clean interface makes browsing headlines easy, while its offline mode lets you read saved articles anywhere. Share stories with friends or save them for later. NewsFlash’s smart algorithm curates content based on your interests, ensuring relevant updates. Regular updates improve performance and add features like podcast integration. Available in multiple languages, NewsFlash is perfect for staying updated on global events without information overload.",
+    "size": 40,
+    "reviews": 7500,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 4050 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/8YkXmhweu_LvBzit8FZxSafrXWMg46GqUdopBLkpu-VOD_i1IpN8f5zmlmrGLMI8lhk",
+    "title": "WeatherWise",
+    "companyName": "ClimateTech Inc.",
+    "id": 19,
+    "description": "WeatherWise delivers accurate, real-time weather forecasts to keep you prepared. View hourly, daily, or weekly forecasts with detailed insights on temperature, humidity, and precipitation. The app’s interactive radar maps help you track storms and plan activities. Customize alerts for severe weather or temperature changes. WeatherWise supports offline access, ensuring you stay informed anywhere. Its sleek design and intuitive controls make checking the weather effortless. Regular updates improve accuracy and add features like pollen alerts. Available in multiple languages, WeatherWise is ideal for travelers, outdoor enthusiasts, or anyone needing reliable weather updates.",
+    "size": 50,
+    "reviews": 8000,
+    "ratingAvg": 4.5,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/nPNUkkp3I18-70mXjMSdNlGLjHdjjYIWOrW6VcjzYlhm2tdnhF1FDXRU2O45mg0cR-8L",
+    "title": "MusicVibe",
+    "companyName": "TuneFlow Tech",
+    "id": 20,
+    "description": "MusicVibe is your ultimate music streaming app, offering millions of songs and podcasts. Create playlists, discover new artists, and enjoy high-quality audio. The app’s smart recommendations suggest tracks based on your listening habits. Download songs for offline playback or stream seamlessly with minimal data usage. MusicVibe’s clean interface and intuitive controls enhance your listening experience. Share playlists with friends or explore curated charts. Regular updates add new features like lyrics display and equalizer settings. Available in multiple languages, MusicVibe is perfect for music lovers seeking endless entertainment on the go.",
+    "size": 70,
+    "reviews": 12000,
+    "ratingAvg": 4.7,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 6400 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/6BWnVl_TNjNOoKHlJOndKIBjXTq_NYKVtA1WjTBymxKppwgrfL7meJxaoit9U0Xjb9M",
+    "title": "BookWorm",
+    "companyName": "ReadEasy Inc.",
+    "id": 21,
+    "description": "BookWorm is a must-have for book lovers, offering a vast library of eBooks and audiobooks. Browse genres, read reviews, and discover new titles with personalized recommendations. The app’s adjustable reading settings, like font size and night mode, ensure a comfortable experience. Track your reading progress and set goals to stay motivated. BookWorm supports offline reading, so you can enjoy books anywhere. Share quotes or join book clubs within the app’s community. Regular updates add new titles and features like annotation tools. Available in multiple languages, BookWorm is perfect for avid readers and casual book enthusiasts alike.",
+    "size": 60,
+    "reviews": 9000,
+    "ratingAvg": 4.6,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5100 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRocq0YWTcBqC9uzSa_ZVCioACtWhmfMmNpQQ&s",
+    "title": "FitMeal",
+    "companyName": "NutriTech Solutions",
+    "id": 22,
+    "description": "FitMeal helps you maintain a healthy diet with personalized meal plans and nutrition tracking. Log meals, track calories, and monitor macronutrients with ease. The app offers recipes tailored to your dietary preferences, such as vegan or gluten-free. Create shopping lists and plan meals for the week to stay organized. FitMeal’s barcode scanner simplifies logging packaged foods. The app supports offline tracking and syncs with fitness apps for a holistic health approach. Its clean interface makes nutrition management simple. Regular updates add new recipes and features. Available in multiple languages, FitMeal is ideal for anyone pursuing a healthier lifestyle.",
+    "size": 50,
+    "reviews": 7500,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 4050 }
+    ]
+  },
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/a3/92/0ca3925d-fa51-d0af-2d97-95b7b86506e4/AppIcon-0-0-85-220-0-0-0-2x-sRGB.png/1200x630bb.png",
+    "title": "ArtStudio",
+    "companyName": "CreativeFlow Inc.",
+    "id": 23,
+    "description": "ArtStudio unleashes your creativity with powerful digital art tools. Create stunning illustrations, sketches, and paintings with a variety of brushes and effects. The app supports layers, blending modes, and high-resolution exports for professional-grade artwork. Draw with precision using stylus support or intuitive touch controls. ArtStudio’s offline mode ensures you can create anywhere. Share your artwork with the community or export it to social media. Regular updates add new brushes and features based on user feedback. Available in multiple languages, ArtStudio is perfect for artists of all skill levels looking to bring their ideas to life.",
+    "size": 85,
+    "reviews": 10000,
+    "ratingAvg": 4.7,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 5600 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm5KT9aaZf4eCujZG4orh255sfD7SC64cexw&s",
+    "title": "ConnectSphere",
+    "companyName": "SocialSync Tech",
+    "id": 24,
+    "description": "ConnectSphere is a social networking app that brings people together. Create a profile, share updates, and connect with friends or like-minded communities. The app’s clean interface makes it easy to post photos, videos, or status updates. Engage with others through comments, likes, and private messages. ConnectSphere’s privacy controls ensure you share only what you want. The app supports offline drafting, so you can prepare posts anywhere. Regular updates improve performance and add features like event creation. Available in multiple languages, ConnectSphere is ideal for staying connected with friends and discovering new communities.",
+    "size": 60,
+    "reviews": 8500,
+    "ratingAvg": 4.5,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/mzVsGujgYaiae3KrAMeNHAokL868izGdPxJ0QDgeaECgxBhyizaLmBTbD5Bxynm-L0w",
+    "title": "StudyBuddy",
+    "companyName": "EduSync Solutions",
+    "id": 25,
+    "description": "StudyBuddy is designed to make studying more effective and engaging. Create flashcards, take practice quizzes, and track your progress with detailed analytics. The app supports group study sessions, allowing you to collaborate with classmates in real-time. Organize study schedules and set reminders for upcoming exams. StudyBuddy’s offline mode ensures you can review materials anywhere. Its intuitive design simplifies complex topics, while regular updates add new study tools and content. Available in multiple languages, StudyBuddy is perfect for students aiming to excel academically with organized and interactive study methods.",
+    "size": 55,
+    "reviews": 8000,
+    "ratingAvg": 4.6,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/dXVA_x6k3RFQxM5TH7J-C7GJt2Cbe2WoLjj1u-ZwT5-JLk2tKSLw9FjQu6czP_AD4hY",
+    "title": "GardenGuru",
+    "companyName": "GreenThumb Tech",
+    "id": 26,
+    "description": "GardenGuru is your go-to app for gardening success. Get tips on plant care, track watering schedules, and identify plants with the app’s image recognition feature. Explore a database of plants with detailed care instructions for each. Plan your garden layout and receive seasonal gardening advice. GardenGuru’s offline mode ensures you can access tips anywhere. Share your garden progress with the community or seek advice from experts. The app’s clean interface makes gardening accessible for beginners and experts alike. Regular updates add new plants and features. Available in multiple languages, GardenGuru is perfect for anyone passionate about growing plants.",
+    "size": 50,
+    "reviews": 7000,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3750 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZ5ajALoXa3uXd78agBfahH_SNDkHbiwMnA&s",
+    "title": "PodcastPro",
+    "companyName": "AudioWave Media",
+    "id": 27,
+    "description": "PodcastPro brings the world of podcasts to your fingertips. Discover, stream, and download podcasts across genres like true crime, tech, and wellness. Create playlists, follow your favorite shows, and get notified of new episodes. The app’s high-quality audio and offline mode ensure uninterrupted listening anywhere. PodcastPro’s smart recommendations suggest shows based on your interests. Share episodes with friends or join discussions in the app’s community. Its sleek design enhances usability, while regular updates add new features like playback speed controls. Available in multiple languages, PodcastPro is ideal for podcast enthusiasts seeking endless audio entertainment.",
+    "size": 45,
+    "reviews": 7500,
+    "ratingAvg": 4.5,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 4050 }
+    ]
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71FpF+NuN5L.png",
+    "title": "FitYoga",
+    "companyName": "ZenFit Solutions",
+    "id": 28,
+    "description": "FitYoga brings the benefits of yoga to your daily routine. Access guided yoga sessions for all skill levels, from beginner to advanced. The app offers classes for flexibility, strength, and relaxation, with customizable durations. Track your progress and set yoga goals to stay motivated. FitYoga’s soothing interface and high-quality videos enhance your practice. The app supports offline sessions, so you can practice anywhere. Connect with the yoga community to share tips and inspiration. Regular updates add new classes and features. Available in multiple languages, FitYoga is perfect for anyone seeking physical and mental wellness through yoga.",
+    "size": 65,
+    "reviews": 8500,
+    "ratingAvg": 4.6,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/t_MpHK_O3vP5mfXaTrJtFklFYc869MyPR5YhpLB-WHFBfdDKBK8s8Ry2jUD3n5wdwSg",
+    "title": "JobHunt",
+    "companyName": "CareerPath Tech",
+    "id": 29,
+    "description": "JobHunt streamlines your job search with powerful tools to find the perfect role. Browse job listings, filter by industry, location, or salary, and apply directly through the app. Build a professional resume with customizable templates and track application statuses. JobHunt’s alerts notify you of new opportunities matching your profile. The app’s clean interface simplifies the job search process. Save jobs for later or share them with friends. Regular updates improve search algorithms and add features like interview tips. Available in multiple languages, JobHunt is ideal for job seekers looking to advance their careers with ease.",
+    "size": 50,
+    "reviews": 7000,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3750 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/N-xnUhMuSdtYcu14MqBu8jUumXqz_H14RiOuNKA1407NQW6MPxirFsg1Mf4vaDtbBpY=w526-h296-rw",
+    "title": "PetPlay",
+    "companyName": "FunFur Tech",
+    "id": 30,
+    "description": "PetPlay is a fun app designed to entertain and engage your pets. Access games, training exercises, and interactive activities for dogs, cats, and more. The app offers tips to stimulate your pet’s mind and improve behavior. Track playtime and monitor your pet’s activity levels with detailed analytics. PetPlay’s colorful interface and engaging sounds keep pets entertained. The app supports offline activities, so playtime is always available. Share cute pet moments with the community or learn from other pet owners. Regular updates add new games and features. Available in multiple languages, PetPlay is perfect for pet owners looking to bond with their pets.",
+    "size": 45,
+    "reviews": 6500,
+    "ratingAvg": 4.3,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3050 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/CsBv8tNZ/demo-app-2.webp",
+    "title": "Candy Rush Saga",
+    "companyName": "Sweet Treats Games Inc.",
+    "id": 31,
+    "description": "Dive into the deliciously addictive world of Candy Rush Saga! This match-three puzzle game takes you on a sprawling adventure across the Candyland Kingdom, featuring hundreds of unique levels filled with challenging mechanics and delightful boosters. Your goal is to swap and match three or more identical candies to clear the board and achieve high scores before you run out of moves. Each world introduces a fresh set of obstacles, from sticky jelly blocks to tricky chocolate barriers, keeping the gameplay engaging and requiring strategic planning to master.\n\nNew levels and episodes are released weekly, ensuring the sweet journey never ends. The game features vibrant, eye-catching graphics and a cheerful soundtrack that makes every session a joyous escape. Connect with friends via social media to compare scores, send lives, and compete for the top spot on the global leaderboards. Beyond the standard levels, players can engage in time-limited events and special challenges to win rare in-game power-ups and exclusive character costumes. The simplicity of the controls combined with the depth of the puzzle design makes Candy Rush Saga accessible to players of all ages, yet challenging enough for seasoned puzzle enthusiasts. It’s the perfect blend of relaxation and brain-teasing fun, ready to satisfy your sweet tooth for gaming.",
+    "size": 150,
+    "reviews": 850000,
+    "ratingAvg": 4.1,
+    "downloads": 95000000,
+    "ratings": [
+      { "name": "1 star", "count": 45000 },
+      { "name": "2 star", "count": 65000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 370000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Gfn6Pdq5/demo-app-5.webp",
+    "title": "ProLens Photo & Video Editor",
+    "companyName": "Digital Canvas Studios",
+    "id": 32,
+    "description": "ProLens is the professional-grade editing suite packed into a mobile application, offering powerful tools for both photography and videography enthusiasts. It provides a comprehensive set of non-destructive editing features, including advanced color grading, selective adjustments using layer masks, and precise tone curve control. Photographers will appreciate the high-quality filters, vintage effects, and the ability to work with RAW image files directly on their device, maintaining maximum image fidelity throughout the editing process. For video creators, ProLens offers multi-track editing, trimming, splicing, and the application of cinematic transitions. You can adjust aspect ratios, add custom text overlays, and fine-tune audio levels for a truly polished production. A key feature is the AI-powered object removal tool, which seamlessly eliminates unwanted elements from your photos and video frames with a single tap. The app is designed for speed and intuitive use; even complex edits can can be achieved quickly thanks to the streamlined, gesture-based interface. Save your favorite custom presets to ensure a consistent aesthetic across all your content. ProLens empowers you to transform everyday footage into stunning, professional-quality media suitable for social media or high-resolution printing, making creativity accessible anywhere.",
+    "size": 350,
+    "reviews": 420000,
+    "ratingAvg": 4.4,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 35000 },
+      { "name": "3 star", "count": 65000 },
+      { "name": "4 star", "count": 130000 },
+      { "name": "5 star", "count": 170000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/m5Bvzx56/demo-app-2.webp",
+    "title": "Tree Plant App",
+    "companyName": "Roxy and Sons, Inc.",
+    "id": 33,
+    "description": "Tree Plant App is designed to help users contribute to a greener planet by tracking tree planting activities and learning about different tree species. The app provides step-by-step guidance on planting, caring for, and monitoring the growth of trees. It encourages environmental responsibility and community engagement through challenges, achievements, and sharing features.\n\nKey features include a personalized dashboard to track your planted trees, educational resources about tree care, and notifications to remind you when a tree needs attention. Users can also join local or global tree planting initiatives and connect with other eco-conscious users.\n\nFor anyone passionate about the environment, Tree Plant App offers a simple and engaging way to make a positive impact. Whether planting in your backyard or participating in community initiatives, this app helps you grow a greener future, one tree at a time.",
+    "size": 85,
+    "reviews": "125000000",
+    "ratingAvg": 4.6,
+    "downloads": "500000",
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 1000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/397GBJYK/Player-Unknown-s-Battlegrounds-Mobile-webp.png",
+    "title": "PUBG MOBILE",
+    "companyName": "LightSpeed & Quantum Studio, PUBG Studios",
+    "id": 34,
+    "description": "PUBG Mobile is a free-to-play battle royale game developed by LightSpeed & Quantum Studio and PUBG Studios. Released on March 19, 2018, for Android and iOS, it has over 1.3 billion downloads and $9 billion in revenue worldwide. Its core feature is the Battle Royale mode, where players parachute onto a large map, scavenge for weapons, and fight to be the last one standing. Players can team up with friends, compete in ranked matches, and participate in events and seasonal missions for exclusive rewards. PUBG Mobile offers various modes including Squad and Arena, combining strategic gameplay, fast-paced action, and social interaction. It provides a rich, immersive environment for players to test their skills, connect with others, explore dynamic maps, and engage in global competitions, making it a leading platform in mobile gaming.",
+    "size": 7500,
+    "reviews": "68000000",
+    "ratingAvg": 4.3,
+    "downloads": "200000000",
+    "ratings": [
+      { "name": "1 star", "count": 3200000 },
+      { "name": "2 star", "count": 2100000 },
+      { "name": "3 star", "count": 4100000 },
+      { "name": "4 star", "count": 8700000 },
+      { "name": "5 star", "count": 29000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/2048px-X_logo_2023.svg.png",
+    "title": "X ",
+    "companyName": "X Corp.",
+    "id": 35,
+    "description": "X is the real-time information network where you can see what's happening in the world and join the public conversation. It's a platform defined by brevity and immediacy, where users share short updates, news, and opinions. The timeline is a constantly flowing stream of information, from breaking news headlines to commentary from public figures and everyday people. This makes it an indispensable tool for staying informed on events as they unfold, providing a raw and unfiltered look at global happenings.\n\nA unique feature of X is its role as a global town square. Hashtags organize conversations around specific topics, allowing users to tap into trending discussions and events instantly. 'Spaces' provide a venue for live audio conversations, enabling more nuanced and interactive discussions. The platform's open nature means you can follow and interact with anyone, from world leaders and journalists to celebrities and experts in any field, giving you direct access to a wide range of perspectives.\n\nFor people who want to stay on the pulse of the world, X is the ultimate resource. It’s where news breaks first and where global conversations take shape. By combining instant updates with public discourse, the app allows you to not only consume information but also participate in the dialogue. Whether you're following sports, politics, tech, or entertainment, X provides a dynamic and fast-paced environment to learn, share, and engage with what's happening right now.",
+    "size": 110,
+    "reviews": "25000000",
+    "ratingAvg": 4.1,
+    "downloads": "4000000000",
+    "ratings": [
+      { "name": "1 star", "count": 2750000 },
+      { "name": "2 star", "count": 1250000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 13500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Snapchat_logo.svg/1200px-Snapchat_logo.svg.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "id": 36,
+    "description": "Snapchat is a unique social platform centered on ephemeral messaging and visual communication. It opens right to the camera, encouraging users to share moments as they happen through 'Snaps'—photos or short videos that disappear after being viewed. This focus on temporary sharing creates a low-pressure environment for communication, making interactions feel more spontaneous and authentic. It's designed to help you communicate with your close friends in a fun, fast, and expressive way, mirroring how you interact in real life.\n\nThe app's most iconic feature is its vast collection of augmented reality 'Lenses' and creative 'Filters'. These tools transform your appearance, overlay fun graphics, and allow for a new level of creative self-expression. Beyond Snaps, you can share a collection of moments in your 'Story,' which is visible to your friends for 24 hours. The 'Snap Map' lets you see where your friends are and what they're up to (if they choose to share their location), adding a layer of real-world connection to the digital experience.\n\nFor those who prioritize fun and creative communication with their inner circle, Snapchat is the perfect tool. It’s less about public broadcasting and more about sharing personal, in-the-moment experiences. By combining disappearing messages with powerful AR tools and location sharing, Snapchat provides a dynamic and playful way to stay connected. It’s a platform that values authenticity and helps you share the real you with the people who matter most.",
+    "size": 75,
+    "reviews": "3050000",
+    "ratingAvg": 4.5,
+    "downloads": "9000000000",
+    "ratings": [
+      { "name": "1 star", "count": 1525000 },
+      { "name": "2 star", "count": 915000 },
+      { "name": "3 star", "count": 1830000 },
+      { "name": "4 star", "count": 4575000 },
+      { "name": "5 star", "count": 21655000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2560px-Netflix_2015_logo.svg.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 37,
+    "description": "Netflix is a leading subscription-based streaming service that offers a vast library of TV shows, movies, documentaries, and anime across a wide variety of genres. It provides on-demand, ad-free viewing, allowing you to watch as much as you want, whenever you want. The platform is designed for a personalized and cinematic experience, bringing a world of entertainment directly to your favorite screen, whether it's a TV, laptop, or mobile device. Its intuitive interface makes browsing and discovering content simple and enjoyable.\n\nA key strength of Netflix is its massive investment in award-winning original content. 'Netflix Originals' include some of the most talked-about series and films, offering exclusive programming you can't find anywhere else. The service's recommendation algorithm is highly sophisticated, learning your viewing habits to suggest titles you're likely to enjoy. Features like multiple user profiles, parental controls, and the ability to download content for offline viewing make it a versatile and family-friendly entertainment hub.\n\nFor anyone seeking high-quality, on-demand entertainment, Netflix is an essential subscription. It has fundamentally changed how we watch television and movies, offering freedom and choice to the viewer. With a constantly updated library and a steady stream of exclusive new releases, there's always something new to discover. It’s your personal cinema, ready to play your next favorite show or movie at the touch of a button.",
+    "size": 60,
+    "reviews": "1200000",
+    "ratingAvg": 4.4,
+    "downloads": "1500000000",
+    "ratings": [
+      { "name": "1 star", "count": 720000 },
+      { "name": "2 star", "count": 480000 },
+      { "name": "3 star", "count": 840000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 8160000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 38,
+    "description": "YouTube is the world's largest online video platform, offering a universe of content created by individuals and organizations from around the globe. It's a place to be entertained, educated, and inspired, with videos on virtually any topic imaginable. From music videos and vlogs to DIY tutorials and educational lectures, YouTube is a primary source of information and entertainment for billions. Its core mission is to give everyone a voice and show them the world.\n\nA unique aspect of YouTube is its thriving creator ecosystem. The platform provides tools for anyone to upload, share, and monetize their video content, which has given rise to a new generation of digital creators and influencers. The recommendation algorithm helps viewers discover content tailored to their interests, while features like live streaming, 'Shorts' for short-form video, and community posts allow for deeper engagement between creators and their audiences. This makes YouTube a dynamic and interactive community, not just a passive viewing experience.\n\nFor anyone with a curious mind, YouTube is an endless resource. It's a library, a concert hall, a classroom, and a stage all in one. Whether you want to learn a new skill, follow your favorite artists, or just relax with entertaining content, the platform has something for you. By democratizing video creation and distribution, YouTube has become an essential part of modern culture and a powerful platform for learning and connection.",
+    "size": 120,
+    "reviews": "15000000",
+    "ratingAvg": 4.5,
+    "downloads": "135000000",
+    "ratings": [
+      { "name": "1 star", "count": 7500000 },
+      { "name": "2 star", "count": 4500000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 22500000 },
+      { "name": "5 star", "count": 106500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png",
+    "title": "LinkedIn: Jobs & Business",
+    "companyName": "LinkedIn",
+    "id": 39,
+    "description": "LinkedIn is the world's largest professional network, designed to help you manage your career and connect with other professionals. It serves as your digital resume, allowing you to create a detailed professional profile that showcases your skills, experience, and education. The platform's core purpose is to facilitate networking, career development, and knowledge sharing within a professional context. It's an essential tool for anyone serious about building and maintaining their professional identity.\n\nThe app offers a powerful suite of tools for career growth. Its job search functionality allows you to find and apply for opportunities tailored to your skills and interests. The news feed provides relevant articles, industry insights, and updates from connections and companies you follow, helping you stay informed. A key feature is the ability to receive and give skill endorsements and recommendations, which adds credibility to your profile. Furthermore, LinkedIn Learning offers thousands of online courses to help you acquire new skills.\n\nFor professionals at any stage of their career, LinkedIn is an indispensable resource. It's a place to build your network, search for your next job, and establish yourself as an expert in your field. By combining professional networking with a job marketplace and an educational platform, LinkedIn provides a comprehensive ecosystem for career management. It empowers you to connect with opportunity and achieve your professional goals.",
+    "size": 88,
+    "reviews": "3000000",
+    "ratingAvg": 4.6,
+    "downloads": "135000000",
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 450000 },
+      { "name": "5 star", "count": 2160000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/instagram-new--v1.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 40,
+    "description": "Share your moments, follow friends, and explore trends through photos and videos. Instagram allows you to create stories, reels, and posts with creative filters and effects. Connect with people worldwide, discover trending hashtags, engage with communities, and grow your presence while enjoying a platform focused on visual storytelling and interactive experiences.",
+    "size": 76,
+    "reviews": 2123456,
+    "ratingAvg": 4.3,
+    "downloads": "2800000000",
+    "ratings": [
+      { "name": "1 star", "count": 120345 },
+      { "name": "2 star", "count": 90234 },
+      { "name": "3 star", "count": 201234 },
+      { "name": "4 star", "count": 403210 },
+      { "name": "5 star", "count": 1304433 }
+    ]
+  }
+]
