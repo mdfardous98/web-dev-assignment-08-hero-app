@@ -1,3 +1,46 @@
+
+
+
+
+
+
+[Live Demo](web-dev-assignment-08-hero-app.netlify.app)
+
+---
+
+## Description
+
+Hero Apps is a **responsive React web application** that showcases app ratings using **interactive data visualizations**. It features smooth navigation, **toast notifications**, and a modern, clean UI for an intuitive user experience.
+
+---
+
+## Technologies Used
+
+- **React** — Building dynamic UI components  
+- **Tailwind CSS** — Utility-first styling and responsive design  
+- **daisyUI** — Tailwind-based component library for UI elements  
+- **React Router** — Navigation and routing  
+- **React Toastify** — User-friendly toast notifications  
+- **Recharts** — Interactive charts for ratings and data visualization  
+
+---
+
+## Setup & Run Locally
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/mdfardous98/web-dev-assignment-08-hero-app.git
+cd hero-apps
+
+npm install
+
+
+npm start
+
+npm run build
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
